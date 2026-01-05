@@ -1,4 +1,4 @@
-<h1 align="center">💜 Ana Carolina Henao</h1>
+<h1 align="center">Ana Carolina Henao</h1>
 
 <p align="center">
   🎓 Estudiante de Administración de Sistemas Informáticos <br>
