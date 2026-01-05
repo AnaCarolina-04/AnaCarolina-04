@@ -1,4 +1,4 @@
-<h1 align="center">Ana Carolina Henao</h1>
+<h1 align="center">💜 Ana Carolina Henao</h1>
 
 <p align="center">
   🎓 Estudiante de Administración de Sistemas Informáticos <br>
@@ -21,7 +21,7 @@ Actualmente combino conocimientos de:
 - 📊 análisis de datos  
 - 💻 desarrollo web  
 
-con el objetivo de crear soluciones **útiles, claras e innovadoras**. Me interesa especialmente la **visualización**, porque creo que una buena presentación de los datos puede marcar la diferencia.
+con el objetivo de crear soluciones **útiles, claras e innovadoras**, con especial interés en la **visualización de datos**.
 
 ---
 
@@ -29,9 +29,7 @@ con el objetivo de crear soluciones **útiles, claras e innovadoras**. Me intere
 
 ### 📊 Análisis de Datos
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=pandas" />
-  <img src="https://skillicons.dev/icons?i=numpy" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Matplotlib-%238b5cf6?style=flat&logo=python&logoColor=white" />
@@ -50,7 +48,7 @@ con el objetivo de crear soluciones **útiles, claras e innovadoras**. Me intere
 
 ### 💾 Lenguajes
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,javascript,php" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,php" />
 </p>
 
 ---
