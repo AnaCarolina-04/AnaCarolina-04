@@ -1,4 +1,4 @@
-<h1 align="center">💜 Ana Carolina Henao</h1>
+<h1 align="center">Ana Carolina Henao</h1>
 
 <p align="center">
   🎓 Estudiante de Administración de Sistemas Informáticos <br>
@@ -29,11 +29,12 @@ con el objetivo de crear soluciones **útiles, claras e innovadoras**, con espec
 
 ### 📊 Análisis de Datos
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
+  <img src="https://img.shields.io/badge/Pandas-%238b5cf6?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-%23a855f7?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Matplotlib-%238b5cf6?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-%23a855f7?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%237c3aed?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-%23a855f7?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
