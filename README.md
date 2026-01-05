@@ -65,9 +65,3 @@ con el objetivo de crear soluciones **útiles, claras e innovadoras**. Me intere
     <img src="https://img.shields.io/badge/LinkedIn-%238b5cf6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="center">
-  💜 En constante aprendizaje · Transformando datos en información útil
-</p>
