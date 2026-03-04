@@ -54,7 +54,7 @@ con el objetivo de crear soluciones **útiles, claras e innovadoras**, con espec
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 <p>
   <a href="mailto:anacar9lina098@gmail.com">
