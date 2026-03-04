@@ -1,8 +1,8 @@
 <h1 align="center">Ana Carolina Henao</h1>
 
 <p align="center">
-  🎓 Estudiante de Administración de Sistemas Informáticos <br>
-  📊 Interesada en Análisis de Datos y Visualización
+  Estudiante de Administración de Sistemas Informáticos <br>
+  Interesada en Análisis de Datos y Visualización
 </p>
 
 <p align="center">
@@ -12,22 +12,22 @@
 
 ---
 
-## ✨ Sobre mí
+## Sobre mí
 
 Me motiva aprender cómo funcionan las cosas y cómo pueden mejorarse.  
 Comencé interesándome por los sistemas y, con el tiempo, encontré en los **datos** una forma poderosa de entender la realidad y apoyar decisiones más informadas.
 
 Actualmente combino conocimientos de:
-- 📊 análisis de datos  
-- 💻 desarrollo web  
+- Análisis de datos  
+- Desarrollo web  
 
 con el objetivo de crear soluciones **útiles, claras e innovadoras**, con especial interés en la **visualización de datos**.
 
 ---
 
-## 🛠️ Tecnologías que uso
+## Tecnologías que uso
 
-### 📊 Análisis de Datos
+### Análisis de Datos
 <p>
   <img src="https://img.shields.io/badge/Pandas-%238b5cf6?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-%23a855f7?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -39,7 +39,7 @@ con el objetivo de crear soluciones **útiles, claras e innovadoras**, con espec
 
 ---
 
-### 📈 Visualización
+### Visualización
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-%237c3aed?style=for-the-badge&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-%23a855f7?style=for-the-badge&logo=plotly&logoColor=white" />
@@ -47,7 +47,7 @@ con el objetivo de crear soluciones **útiles, claras e innovadoras**, con espec
 
 ---
 
-### 💾 Lenguajes
+### Lenguajes
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,php" />
 </p>
