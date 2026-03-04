@@ -54,13 +54,3 @@ con el objetivo de crear soluciones **útiles, claras e innovadoras**, con espec
 
 ---
 
-## Contacto
-
-<p>
-  <a href="mailto:anacar9lina098@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23a855f7?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ana-carolina-henao-5293512a0" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%238b5cf6?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
